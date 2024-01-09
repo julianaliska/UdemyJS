@@ -1,0 +1,5 @@
+// Escrever comentário
+
+/* Comentários 
+Longos
+*/
